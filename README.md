@@ -6,10 +6,10 @@ Adds Microsoft Store and dependencies to Windows 10 LTSC 21h2/2021 ARM64
 1. Распаковать архив в любую удобную папку "рекомендуется корневая папка диска, для избежания путей содержащих имена пользователей или название папок на языках отличных от английского".
 2. Запустить файл Add-Store.cmd. При запуске автоматический запрашиваются права администратора, если они не будут выданы, скрипт прекратит работу.
 Что конкретно будет установлено:
-Microsoft.DesktopAppInstaller - менеджер папкетов UWP приложений, будет полезен, если ставите приложения без магазина, например с store.rg-adguard.net.
+Microsoft.DesktopAppInstaller - менеджер пакетов UWP приложений, будет полезен, если ставите приложения без магазина, например из store.rg-adguard.net.
 Microsoft.NET.Native.Framework.2.2, Microsoft.NET.Native.Runtime.2.2, Microsoft.UI.Xaml.2.4, Microsoft.VCLibs.140.00.UWPDesktop, Microsoft.VCLibs.140.00_14.0.33519.0_arm64  - зависимости, необходимые для работы UWP приложений
-Microsoft.StorePurchaseApp - приложения для покупок внутри магазина
-Microsoft.XboxIdentityProvider - приложения для полноценной работы сервисов xbox
+Microsoft.StorePurchaseApp - приложение для покупок внутри магазина
+Microsoft.XboxIdentityProvider - приложение для полноценной работы сервисов xbox
 Microsoft.WindowsStore - магазин Microsoft Store
 
 English version

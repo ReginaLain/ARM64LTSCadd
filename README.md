@@ -1,4 +1,4 @@
-# ARM64LTSCadd
+# ARM64LTSCaddMSstore
 Adds Microsoft Store and dependencies to Windows 10 LTSC 21h2/2021 ARM64
 
 Скрипт гарантировано сработает на LTSC2021 и скорее всего на LTSC2024, "LTSC2019 не поддерживается"
